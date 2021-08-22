@@ -57,7 +57,15 @@
         android:layout_height="wrap_content"
         android:hint="Weight (kg)"/>
 
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="Calculate"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="23.6 You are a healthy weight"/>
 
 
 
