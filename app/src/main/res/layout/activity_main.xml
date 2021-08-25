@@ -38,7 +38,7 @@
     </RadioGroup>
 
     <EditText
-        android:id="@+id/age"
+        android:id="@+id/edit_text_age"
         android:inputType="number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -52,14 +52,14 @@
         android:layout_margin="10dp">
 
         <EditText
-            android:id="@+id/feet"
+            android:id="@+id/edit_text_feet"
             android:inputType="number"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:hint="Feet" />
 
         <EditText
-            android:id="@+id/inches"
+            android:id="@+id/edit_text_inches"
             android:inputType="number"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
     </LinearLayout>
 
     <EditText
-        android:id="@+id/weight"
+        android:id="@+id/edit_text_weight"
         android:inputType="number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -83,7 +83,7 @@
         android:text="Calculate" />
 
     <TextView
-        android:id="@+id/result"
+        android:id="@+id/text_view_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="25dp"
