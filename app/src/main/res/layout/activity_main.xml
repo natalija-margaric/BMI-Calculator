@@ -86,8 +86,7 @@
         android:id="@+id/text_view_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="25dp"
-        android:text="23.6 You are a healthy weight" />
+        android:layout_margin="25dp"/>
 
 
 </LinearLayout>
