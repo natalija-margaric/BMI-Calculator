@@ -1,1 +1,1 @@
-# IBM-Calculator
+# BMI-Calculator
